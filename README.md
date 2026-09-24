@@ -15,7 +15,7 @@ I'm particularly interested in software engineering and AI/ML, especially when t
 
 **[Claricode](https://github.com/RheaPaste1/Claricode.git)** - AI-powered study tool that turns scattered programming materials into structured lessons and examples. Built with a teammate for EmberHacks 2025 and used by 100+ students.
 
-**[Instructli]** - A study platform created under the supervision of Professor Rutwa Engineer, following 6 interactive learning modules for UTM's CSC258: Computer Organization, now live for UofT students
+**Instructli** - A study platform created under the supervision of Professor Rutwa Engineer, following 6 interactive learning modules for UTM's CSC258: Computer Organization, now live for UofT students
 
 ### Technologies
 
