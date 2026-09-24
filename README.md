@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Rhea! 👋
 
-<!--
-**RheaPaste1/RheaPaste1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science Specialist and Mathematical Sciences Minor student at the University of Toronto who likes building things that solve real problems.
 
-Here are some ideas to get you started:
+I'm particularly interested in software engineering and AI/ML, especially when technology can make something more intuitive, accessible, or efficient. A lot of my projects start the same way: I run into a problem and start thinking about whether I could build a better solution.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm working on
+
+- **Research & education:** As a Research Assistant at UTM, I'm building interactive learning tools and developing AI literacy materials for CSC105 and CSC211
+- **Software:** Full-stack applications, AI-powered tools, and systems programming
+- **AI/ML:** Exploring practical applications of AI while thinking critically about reliability and how people actually use it
+- **Learning:** Currently in my 3rd year of studying Computer Science and Mathematical Sciences at UofT
+
+### Some things I've built
+
+**[Claricode](https://github.com/RheaPaste1/Claricode.git)** - AI-powered study tool that turns scattered programming materials into structured lessons and examples. Built with a teammate for EmberHacks 2025 and used by 100+ students.
+
+**[Instructli]** - A study platform created under the supervision of Professor Rutwa Engineer, following 6 interactive learning modules for UTM's CSC258: Computer Organization, now live for UofT students
+
+### Technologies
+
+**Languages:** Python · Java · C · C++ · JavaScript · TypeScript · SQL · Assembly
+**Web:** React · Next.js · Tailwind · Supabase  
+**Tools:** Git · Linux · Google Cloud · Firebase
+
+### Let's connect
+
+[LinkedIn](www.linkedin.com/in/rhea-paste-524136237) · [Email](rhea.p25@outlook.comL)
