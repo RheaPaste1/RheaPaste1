@@ -1,12 +1,12 @@
 # Hi, I'm Rhea! 👋
 
-I'm a Computer Science Specialist and Mathematical Sciences Minor student at the University of Toronto who likes building things that solve real problems.
+I'm a **Computer Science Specialist and Mathematical Sciences Minor** student at the University of Toronto who likes building things that solve real problems.
 
 I'm particularly interested in software engineering and AI/ML, especially when technology can make something more intuitive, accessible, or efficient. A lot of my projects start the same way: I run into a problem and start thinking about whether I could build a better solution.
 
 ### What I'm working on
 
-- **Research & education:** As a Research Assistant at UTM, I'm building interactive learning tools and developing AI literacy materials for CSC105 and CSC211
+- **Research & education:** As a **Research Assistant** at UTM, I'm building interactive learning tools and developing AI literacy materials for CSC105 and CSC211
 - **Software:** Full-stack applications, AI-powered tools, and systems programming
 - **AI/ML:** Exploring practical applications of AI while thinking critically about reliability and how people actually use it
 - **Learning:** Currently in my 3rd year of studying Computer Science and Mathematical Sciences at UofT
